@@ -1,2 +1,4 @@
 # Recipe-App
-This is an application made for searching food recipes (Recipes includes calories, ingredients, method) using Recipe search API using HTML, CSS & JavaScript.
+This is an app. made using the basics of react and have created a real world application, Where I built a food recipe search 
+application using Recipe search API 
+(HTML, CSS & JavaScript)
